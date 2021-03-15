@@ -1,6 +1,4 @@
 # FishOpratedVehicle
-
-[TOCM]
 ### Software And Installation Guide 
 
 - Install ubuntu Raspberry Pi Image from Ubiquity-Robotics:
@@ -11,7 +9,7 @@ http://wiki.ros.org/catkin/Tutorials/create_a_workspace
 
 
 #### Example for arduino code to control your motors:
-######C++
+###### C++
 ```C++
 #include <SoftwareSerial.h>
 #include <PololuQik.h>
