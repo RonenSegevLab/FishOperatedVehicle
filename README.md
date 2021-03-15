@@ -1,4 +1,4 @@
-# FishOpratedVehicle
+# Fish Oprated Vehicle ROS package
 ### Software And Installation Guide 
 
 - Install ubuntu Raspberry Pi Image from Ubiquity-Robotics:
