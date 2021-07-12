@@ -1,0 +1,3 @@
+	<node name="fishFollow" pkg="robofish" type="follow_fish.py" output="screen">
+	</node>
+

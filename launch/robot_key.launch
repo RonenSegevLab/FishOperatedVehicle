@@ -1,0 +1,16 @@
+<launch>
+
+	<include file="$(find rplidar_ros)/launch/rplidar.launch" />
+
+
+	<node name="teleop_twist_keyboard" pkg="robofish" type="teleop_key.py" output="screen">
+	</node>
+
+	<node name="twist_to_motors" pkg="robofish" type="motorcontrol.py" output="screen">
+	</node>
+
+	<node name="serial_node1" pkg="rosserial_python" type="serial_node.py" output="screen">
+	</node>
+
+
+</launch>

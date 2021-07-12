@@ -1,0 +1,10 @@
+<launch>
+
+	<node name="Track_fish_movment" pkg="robofish" type="follow_fish.py" output="screen">
+	</node>
+
+	<node name="recPoseNew" pkg="robofish" type="recpose2.py" output="screen">
+	</node>
+
+
+</launch>
