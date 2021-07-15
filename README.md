@@ -16,7 +16,6 @@ https://github.com/RonenSegevLab/FishOperatedVehicle/tree/main/ArduinoCode
 
 ### Demonstration of the FOV 
 ![Alt Text](https://github.com/RonenSegevLab/FishOperatedVehicle/blob/main/videos/movie%20side%20view.gif?raw=true)
-![Alt Text](https://github.com/RonenSegevLab/FishOperatedVehicle/blob/main/videos/robodag%20movie%20(no%20header).gif?raw=true)
 # Robot Assembly Instructions 
 ## Components List 
 
