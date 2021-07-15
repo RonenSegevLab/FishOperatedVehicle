@@ -14,8 +14,7 @@ cv_bridge:  http://wiki.ros.org/cv_bridge
 https://github.com/RonenSegevLab/FishOperatedVehicle/tree/main/ArduinoCode
 
 
-### Demonstration of the FOV 
-![Alt Text](https://github.com/RonenSegevLab/FishOperatedVehicle/blob/main/videos/movie%20side%20view.gif?raw=true)
+
 # Robot Assembly Instructions 
 ## Components List 
 
@@ -43,4 +42,8 @@ https://github.com/RonenSegevLab/FishOperatedVehicle/tree/main/ArduinoCode
 |Customized PCV plates                        |Two customized PCV plates for the bottom and upper levels of the robot, demotions are flexible and dependent on the size of the aquarium tank .|Available at machining workshops.                                                |Extras   |2       |
 |Electronic box for the electrical components |Should be as small as possible, contain all electronics at the top of the robot to avoid water splashes                                        |Available at any electronics store                                               |Extras   |1       |
 
+
+
+### Demonstration of the FOV 
+![Alt Text](https://github.com/RonenSegevLab/FishOperatedVehicle/blob/main/videos/movie%20side%20view.gif?raw=true)
 
