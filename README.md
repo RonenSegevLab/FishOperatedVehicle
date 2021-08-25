@@ -10,7 +10,7 @@ hector_slam: http://wiki.ros.org/hector_slam.
 
 
 
-#### Example for arduino code to control robot wheels is attached 
+####  Arduino code example to control robot DC motors
 https://github.com/RonenSegevLab/FishOperatedVehicle/tree/main/ArduinoCode
 
 
